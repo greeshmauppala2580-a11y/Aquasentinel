@@ -1,2 +1,1 @@
-# Aquasentinel
-To monitor the fish lake
+A simulated pond with an AI engine and a live dashboard.
